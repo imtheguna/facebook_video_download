@@ -40,8 +40,6 @@ Passionate #Flutter, #Android Developer. #UI Designer.
 
 ## Currently Available Methods
 - `FacebookPost FacebookData.postFromUrl()` returns post details
-</br>
-
 
 ## Getting Started
 
