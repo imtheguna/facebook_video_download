@@ -35,7 +35,6 @@ import 'package:facebook_video_download/facebook_video_download.dart';
 
 Passionate #Flutter, #Android Developer. #UI Designer.
 
-
 <a href="https://www.linkedin.com/in/imtheguna/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 
