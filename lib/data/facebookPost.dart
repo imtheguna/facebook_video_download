@@ -4,8 +4,8 @@ class FacebookPost {
   String? videoSdUrl = '';
   String? videoHdUrl = '';
   String? videoMp3Url = '';
-  int? commentsCount = 0;
-  int? sharesCount = 0;
+  String? commentsCount = '0';
+  String? sharesCount = '0';
 
   FacebookPost({
     this.postUrl,
@@ -22,8 +22,8 @@ class FacebookPost {
       videoSdUrl: map['videoSdUrl'],
       videoHdUrl: map['videoHdUrl'],
       videoMp3Url: map['videoMp3Url'],
-      commentsCount: int.parse(map['commentsCount']!),
-      sharesCount: int.parse(map['sharesCount']!),
+      commentsCount: map['commentsCount']!,
+      sharesCount: map['sharesCount']!,
     );
   }
 }
